@@ -22,4 +22,5 @@ This video explains the Xero Integration process:
 Access your Accounting data via Xero Integrations instead of manually clicking through Xero, exporting to CSV, and doing data analysis in Excel – you can now automate your Xero reports and manual processing in Python.
 
 Download Xero-API-Tutorial.html if you want to manually copy the code.
+
 Download Xero-API-Tutorial.ipynb to launch the code in Jupyter Notebook.
